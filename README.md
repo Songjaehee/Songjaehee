@@ -1,16 +1,11 @@
-### Hi there 👋
+## 이름
+  송재희
+## 생년월일
+  1998년 7월 23일
+## 학력
+  명지대학교 정보통신공학과
+  > 연계전공 스마트클라우드인공지능
+## 경력
+  2021.09 ~ 2023.09 SOLID 5G 중계기 시스템 개발 검증
+  2023.09 ~ 2024.03 감정평가법인 영업 근무
 
-<!--
-**Songjaehee/Songjaehee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
